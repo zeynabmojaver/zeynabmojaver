@@ -1,0 +1,68 @@
+body
+{
+font-family:b morvarid;
+display:inline;
+background-color:#e2e6d9;
+}
+.header
+{
+background-color:#808000;
+padding:16px;
+font-size:18px;
+}
+li
+{
+display:inline;
+padding:20px;
+color:white;
+}
+.as
+{
+display:inline;
+font-size:24px;
+font-family:B morvarid;
+color:white
+}
+
+.tab
+{
+display:inline;
+}
+.as2
+{
+display:inline;
+font-size:20px;
+font-family:B morvarid;
+color:black;
+background:E:\web\bg.png;
+}
+
+.button {
+  background-color: #999933;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  font-size: 20px;
+  cursor: pointer;
+  font-family:B morvarid;
+}
+.button:hover {
+  background-color: #cccc99;
+}
+.foder
+{
+color:white;
+}
+a:link{
+color: #ffffff;	 
+}
+a:visited{
+color: #ffffff;	
+}
+a:hover{
+color: #ffffff;	
+}
+a:active{
+color: #333333;
+}
